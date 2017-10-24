@@ -1,0 +1,14 @@
+{
+    "projectName": "Integration Demo",
+    "username": "mimi@caterpillar.com",
+    "id": "99ceeed0-b88b-11e7-8f8c-27639c7bc7f8",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://rmimi-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\mimitha.r\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexPage"
+    ]
+}
